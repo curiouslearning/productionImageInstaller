@@ -1,0 +1,3 @@
+javac *.java
+jar cfm output.jar META-INF/MANIFEST.MF *.class
+

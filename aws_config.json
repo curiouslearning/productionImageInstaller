@@ -1,0 +1,20 @@
+{
+  "name": "gsu_config v3.1.0",
+  "version":3,
+  "configUpdateUrl":"https://developer.globallit.org/tabletinterface/json_config.php",
+  "configUpdatePeriod":60,
+  "dataArchivePeriod":14400,
+  "dataUploadUrl":"https://developer.globallit.org/uploads/",
+  "dataUploadPeriod":14400,
+  "dataRequests":{
+    "edu.mit.media.funf.probe.builtin.HardwareInfoProbe": [
+      { "PERIOD": 86400 }
+    ],
+    "edu.mit.media.funf.probe.builtin.BatteryProbe": [
+      {}
+    ],
+    "edu.mit.media.funf.probe.builtin.ScreenProbe": [
+      {}
+    ]
+  }
+}
