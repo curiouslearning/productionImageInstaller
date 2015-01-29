@@ -46,7 +46,8 @@ set PATH=%PATH%%appendString%
 
 echo PATH has been updated.  Starting git pull
 
-git pull 
+git fetch --all
+git reset --hard origin/master 
 
 echo Completed git pull
 echo Starting program
