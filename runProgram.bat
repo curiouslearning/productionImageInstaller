@@ -52,5 +52,4 @@ echo Completed git pull
 echo Starting program
 java -jar ImageInstaller.jar
 
-PAUSE
-
+echo Goodbye
