@@ -1,0 +1,8 @@
+Bug Fixes:
+
+2/9/2015 
+Problem: SSL Cert not verified.  Tablet won't talk to https servers to ping or upload data
+Reason: Time not automatically updated, time is off from cert, cert is invalidated because of difference
+Solution: Installed ClockSync and selected "automatic update time"
+
+
