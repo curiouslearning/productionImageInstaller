@@ -40,7 +40,10 @@ adb 2> NUL
 if not %ERRORLEVEL%==9009 (
 echo adb exists in path
 ) else (
-set "appendString=%appendString%%adbDir%
+:: set "appendString=%appendString%%gitDir%
+echo Git is not installed.  Aborting!
+pause
+exit 0
 )
 set PATH=%PATH%%appendString%
 
