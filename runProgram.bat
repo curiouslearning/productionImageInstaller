@@ -32,7 +32,9 @@ git --version 2> NUL
 if not %ERRORLEVEL%==9009 (
 echo git exists in path
 ) else (
-set "appendString=%appendString%%gitDir%
+echo Git is not installed.  Aborting!
+pause
+exit 0
 )
 
 ::Check if adb is already in the path
@@ -40,10 +42,7 @@ adb 2> NUL
 if not %ERRORLEVEL%==9009 (
 echo adb exists in path
 ) else (
-:: set "appendString=%appendString%%gitDir%
-echo Git is not installed.  Aborting!
-pause
-exit 0
+set "appendString=%adbDir%"
 )
 set PATH=%PATH%%appendString%
 
