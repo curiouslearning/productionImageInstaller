@@ -42,7 +42,7 @@ adb 2> NUL
 if not %ERRORLEVEL%==9009 (
 echo adb exists in path
 ) else (
-set appendString=%appendString%%adbDir%
+set "appendString=%adbDir%"
 )
 set PATH=%PATH%%appendString%
 
@@ -53,6 +53,7 @@ git reset --hard origin/master
 
 echo Completed git pull
 echo Starting program
+
 java -jar ImageInstaller.jar
 
 echo Goodbye
