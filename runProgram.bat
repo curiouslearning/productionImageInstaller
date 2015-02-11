@@ -2,11 +2,9 @@
 cls
 
 echo Updating initializeProgram.bat
-cp initializeProgram.bat ../
+cp initializeProgram.bat ..
 
 echo Checking Path for ADB...
-
-exit
 
 set startingDir=%CD%
 cd ..\ADB
@@ -32,3 +30,4 @@ echo Starting program
 java -jar ImageInstaller.jar
 
 echo Goodbye
+pause
