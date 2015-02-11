@@ -20,10 +20,10 @@ adb 2> NUL
 if not %ERRORLEVEL%==9009 (
 echo adb exists in path
 ) else (
-set "appendString=%adbDir%"
-set PATH=%PATH%%appendString%
+set "appendString=%adbDir%;"
 echo PATH has been updated
 )
+set PATH=%PATH%%appendString%
 
 echo Starting program
 
