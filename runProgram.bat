@@ -30,4 +30,3 @@ echo Starting program
 java -jar ImageInstaller.jar
 
 echo Goodbye
-pause
