@@ -1,4 +1,5 @@
 su
+
 mkdir /data/data/com.morrison.applocklite/databases
 busybox cp /sdcard/applock/applock.db /data/data/com.morrison.applocklite/databases/
 chown u0_a57 /data/data/com.morrison.applocklite/databases/applock.db
