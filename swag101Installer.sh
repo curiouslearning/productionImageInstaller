@@ -4,25 +4,41 @@ su
 pm uninstall edu.media.mit.prg.launcher
 pm uninstall edu.mit.media.prg.funffilemover
 
-pm set-install-location 2
+pm uninstall BMA_CO.Phonics_Lv1_Unit10
+pm uninstall BMA_CO.Phonics_Lv1_Unit2
+pm uninstall BMA_CO.Phonics_Lv1_Unit3
+pm uninstall BMA_CO.Phonics_Lv1_Unit4
+pm uninstall BMA_CO.Phonics_Lv1_Unit5
+pm uninstall BMA_CO.Phonics_Lv1_Unit6
+pm uninstall BMA_CO.Phonics_Lv1_Unit7
+pm uninstall BMA_CO.Phonics_Lv1_Unit8
+pm uninstall BMA_CO.Phonics_Lv1_Unit9
+pm uninstall BMA_CO.Phonics_Lv2_Unit10
+pm uninstall BMA_CO.Phonics_Lv2_Unit2
+pm uninstall BMA_CO.Phonics_Lv2_Unit3
+pm uninstall BMA_CO.Phonics_Lv2_Unit4
+pm uninstall BMA_CO.Phonics_Lv2_Unit5
+pm uninstall BMA_CO.Phonics_Lv2_Unit7
+pm uninstall BMA_CO.Phonics_Lv2_Unit8
+pm uninstall BMA_CO.Phonics_Lv2_Unit9
 
-pm install -s /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv1_Unit10-1.apk
-pm install -s /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv1_Unit2-1.apk
-pm install -s /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv1_Unit3-1.apk
-pm install -s /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv1_Unit4-1.apk
-pm install -s /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv1_Unit5-1.apk
-pm install -s /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv1_Unit6-1.apk
-pm install -s /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv1_Unit7-1.apk
-pm install -s /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv1_Unit8-1.apk
-pm install -s /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv1_Unit9-1.apk
-pm install -s /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv2_Unit10-1.apk
-pm install -s /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv2_Unit2-1.apk
-pm install -s /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv2_Unit3-1.apk
-pm install -s /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv2_Unit4-1.apk
-pm install -s /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv2_Unit5-1.apk
-pm install -s /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv2_Unit7-1.apk
-pm install -s /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv2_Unit8-1.apk
-pm install -s /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv2_Unit9-1.apk
+pm install -f /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv1_Unit10-1.apk
+pm install -f /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv1_Unit2-1.apk
+pm install -f /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv1_Unit3-1.apk
+pm install -f /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv1_Unit4-1.apk
+pm install -f /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv1_Unit5-1.apk
+pm install -f /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv1_Unit6-1.apk
+pm install -f /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv1_Unit7-1.apk
+pm install -f /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv1_Unit8-1.apk
+pm install -f /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv1_Unit9-1.apk
+pm install -f /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv2_Unit10-1.apk
+pm install -f /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv2_Unit2-1.apk
+pm install -f /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv2_Unit3-1.apk
+pm install -f /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv2_Unit4-1.apk
+pm install -f /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv2_Unit5-1.apk
+pm install -f /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv2_Unit7-1.apk
+pm install -f /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv2_Unit8-1.apk
+pm install -f /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv2_Unit9-1.apk
 pm install -s /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv3_Unit10-1.apk
 pm install -s /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv3_Unit4-1.apk
 pm install -s /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv3_Unit5-1.apk
@@ -67,8 +83,8 @@ pm install -s /mnt/external_sd/swagApps/zok.android.shapes-1.apk
 pm set-install-location 0
 
 # Install the new apps
-pm install /mnt/external_sd/swagApps/funfFileMover.apk
-pm install /mnt/external_sd/swagApps/edu.media.mit.prg.launcher-1.apk
+pm install -f /mnt/external_sd/swagApps/funfFileMover.apk
+pm install -f /mnt/external_sd/swagApps/edu.media.mit.prg.launcher-1.apk
 
 su
 mount -o remount,rw -t ext4 /system
