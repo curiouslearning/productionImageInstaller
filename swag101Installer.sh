@@ -36,7 +36,6 @@ pm install -f /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv2_Unit2-1.apk
 pm install -f /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv2_Unit3-1.apk
 pm install -f /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv2_Unit4-1.apk
 pm install -f /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv2_Unit5-1.apk
-pm install -f /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv2_Unit7-1.apk
 pm install -f /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv2_Unit8-1.apk
 pm install -f /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv2_Unit9-1.apk
 pm install -s /mnt/external_sd/swagApps/BMA_CO.Phonics_Lv3_Unit10-1.apk
