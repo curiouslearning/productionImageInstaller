@@ -27,9 +27,8 @@ Exit
 ::Pull latest source files then start the program
 cd productionImageInstaller
 
-echo overwriting local changes
-git fetch --all
-git reset --hard origin/master
+echo Stashing local changes
+git stash
 echo Done stashing local changes
 sleep 1
 
