@@ -70,3 +70,7 @@ busybox cp /mnt/external_sd/swagApps/systemApps/* /system/app
   
 # Reboot to complete install  
 reboot  
+
+reboot
+
+
