@@ -1,0 +1,8 @@
+{
+	"defaultDownloadLocation" : "https://git.globallit.org/mgmt/tabletdownloads/"
+	, "uploadEndpoint" : " https://git.globallit.org/mgmt/uploads"
+	, "numberOfDownloadAttempts": 3
+	, "databaseFileLocation" : "/data/data/org.curiouslearning.managementapp/databases/"
+	, "uploadLogIntervalInSeconds" : 3600
+	, "runCommandIntervalInSeconds" : 3600
+}
