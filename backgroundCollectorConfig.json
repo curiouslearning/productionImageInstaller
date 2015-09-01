@@ -10,7 +10,9 @@
             { "PERIOD": 86400 }
         ],
         "edu.mit.media.funf.probe.builtin.BatteryProbe": [
-            {}
+            {
+			"PERIOD": 86400
+			}
         ],
         "edu.mit.media.funf.probe.builtin.ScreenProbe": [
             {}
