@@ -1,0 +1,7 @@
+{
+	"defaultDownloadLocation" : "https://git.globallit.org/tabletdownloads/"
+	, "numberOfDownloadAttempts": 3
+	, "uploadLogIntervalInSeconds" : 14400
+	, "runCommandIntervalInSeconds" : 14400
+	
+}

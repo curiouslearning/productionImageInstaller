@@ -1,0 +1,11 @@
+{
+	"appManifest" : "/sdcard/launcher/apps.json"
+	, "managementConfig" : "/sdcard/MGMT/managementConfig.json"
+	, "tabletLabel" : "/sdcard/label.txt"
+	, "tabletVersion" : "/sdcard/version.txt"
+	, "tabletPingConfig" : "/sdcard/launcher/ping.config"
+	, "tabletSerialNumber" : "/sdcard/launcher/serialNumber"
+	, "tabletDisableStatusBar" : "/sdcard/launcher/disableStatusBar"
+	, "dataArchiveDirectory" : "/sdcard/edu.mit.media.funf.bgcollector/mainPipeline/archive"
+	, "dataBackupDirectory" : "/sdcard/edu.mit.media.funf.bgcollector/mainPipeline/backup"
+}
