@@ -1,1 +1,453 @@
-{"version":"28.0.0.208","apps":[{"id":17,"apkName":"com.intellijoy.sightwords-1.apk","file":"com.intellijoy.sightwords","title":"","type":"app","visible":"1","bounce":1,"scale":1},{"id":18,"apkName":"com.goatella.beginningblends-1.apk","file":"com.goatella.beginningblends","title":"","type":"app","visible":"1","bounce":1,"scale":1},{"id":19,"apkName":"com.vanluyen.KidColoringNoAds-1.apk","file":"com.vanluyen.KidColoringNoAds","title":"","type":"app","visible":"1","bounce":1,"scale":1},{"id":20,"apkName":"russh.toddler.game-1.apk","file":"russh.toddler.game","title":"","type":"app","visible":"1","bounce":1,"scale":1},{"id":21,"apkName":"com.oncilla.LetterTracing-1.apk","file":"com.oncilla.LetterTracing","title":"","type":"app","visible":"1","bounce":1,"scale":1},{"id":24,"apkName":"pl.ayground.littlepiano-1.apk","file":"pl.ayground.littlepiano","title":"","type":"app","visible":"1","bounce":1,"scale":1},{"id":43,"apkName":"com.tomatointeractive.gmz-1.apk","file":"com.tomatointeractive.gmz","title":"","type":"app","visible":"1","bounce":1,"scale":1},{"id":48,"apkName":"air.com.uxpractitioners.apps.phonicsreaderLite-1.apk","file":"air.com.uxpractitioners.apps.phonicsreaderLite","title":"","type":"app","visible":"1","bounce":1,"scale":1},{"id":50,"apkName":"kr.co.smartstudy.phonicsiap_android_googlemarket-1.apk","file":"kr.co.smartstudy.phonicsiap_android_googlemarket","title":"","type":"app","visible":"1","bounce":1,"scale":1},{"id":51,"apkName":"com.learningtouch.bobbooksliteversion-1.apk","file":"com.learningtouch.bobbooksliteversion","title":"","type":"app","visible":"1","bounce":1,"scale":1},{"id":52,"apkName":"com.lostlarry-1.apk","file":"com.lostlarry","title":"","type":"app","visible":"1","bounce":1,"scale":1},{"id":54,"apkName":"com.scholastic.CliffordsBIGBirthday-1.apk","file":"com.scholastic.CliffordsBIGBirthday","title":"","type":"app","visible":"1","bounce":1,"scale":1},{"id":62,"apkName":"com.absolutist.abcmysteriezfree-1.apk","file":"com.absolutist.abcmysteriezfree","title":"","type":"app","visible":"1","bounce":1,"scale":1},{"id":66,"apkName":"BMA_CO.Phonics_Lv1_Unit7-1.apk","file":"BMA_CO.Phonics_Lv1_Unit7","title":"","type":"app","visible":"1","bounce":1,"scale":1},{"id":67,"apkName":"BMA_CO.Phonics_Lv1_Unit8-1.apk","file":"BMA_CO.Phonics_Lv1_Unit8","title":"","type":"app","visible":"1","bounce":1,"scale":1},{"id":68,"apkName":"BMA_CO.Phonics_Lv1_Unit9-1.apk","file":"BMA_CO.Phonics_Lv1_Unit9","title":"","type":"app","visible":"1","bounce":1,"scale":1},{"id":76,"apkName":"BMA_CO.Phonics_Lv2_Unit10-1.apk","file":"BMA_CO.Phonics_Lv2_Unit10","title":"","type":"app","visible":"1","bounce":1,"scale":1},{"id":80,"apkName":"BMA_CO.Phonics_Lv3_Unit10-1.apk","file":"BMA_CO.Phonics_Lv3_Unit10","title":"","type":"app","visible":"1","bounce":1,"scale":1},{"id":93,"apkName":"DentistBird.apk","file":"com.literarysafari.dentistbird","title":"","type":"app","visible":"1","bounce":1,"scale":1},{"id":94,"apkName":"CLMovieListingApp.apk","file":"org.curiouslearning.videoplayertest","title":"","type":"app","visible":"1","bounce":1,"scale":1}],"hiddenApps":[{"id":86,"apkName":"org.curiouslearning.managementapp-1.apk","file":"org.curiouslearning.managementapp"},{"id":95,"apkName":"funfFileMover.apk","file":"edu.mit.media.prg.funffilemover"},{"id":96,"apkName":"updaterApp.apk","file":"org.curiouslearning.updaterapp"}],"videos":[{"id":20,"title":"Applesauce","type":"video","visible":"1","contentType":"EducationalVideo","file":"Applesauce.mp4"},{"id":29,"title":"Ankylosaurus","type":"video","visible":"0","contentType":"EducationalVideo","file":"Dinosaur_Times-Ankylosaurus.mp4"},{"id":31,"title":"A Game for Both of Us","type":"video","visible":"1","contentType":"EducationalVideo","file":"Dinosaur_Train-A_Game_for_Both_of_Us.mp4"},{"id":32,"title":"Alvan and Morris Have a Discussion","type":"video","visible":"1","contentType":"EducationalVideo","file":"Dinosaur_Train-Alvin_and_Morris.mp4"},{"id":33,"title":"Amargasaurus Acres","type":"video","visible":"0","contentType":"EducationalVideo","file":"Dinosaur_Train-Amargasaurus_Acres.mp4"}]}
+{
+    "version": "28.0.0.174",
+    "apps": [
+        {
+            "id": 17,
+            "apkName": "com.intellijoy.sightwords-1.apk",
+            "file": "com.intellijoy.sightwords",
+            "title": "",
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        },
+        {
+            "id": 18,
+            "apkName": "com.goatella.beginningblends-1.apk",
+            "file": "com.goatella.beginningblends",
+            "title": "",
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        },
+        {
+            "id": 19,
+            "apkName": "com.vanluyen.KidColoringNoAds-1.apk",
+            "file": "com.vanluyen.KidColoringNoAds",
+            "title": "",
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        },
+        {
+            "id": 20,
+            "apkName": "russh.toddler.game-1.apk",
+            "file": "russh.toddler.game",
+            "title": "",
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        },
+        {
+            "id": 21,
+            "apkName": "com.oncilla.LetterTracing-1.apk",
+            "file": "com.oncilla.LetterTracing",
+            "title": "",
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        },
+        {
+            "id": 22,
+            "apkName": "com.dornbachs.zebra-1.apk",
+            "file": "com.dornbachs.zebra",
+            "title": "",
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        },
+        {
+            "id": 24,
+            "apkName": "pl.ayground.littlepiano-1.apk",
+            "file": "pl.ayground.littlepiano",
+            "title": "",
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        },
+        {
+            "id": 43,
+            "apkName": "com.tomatointeractive.gmz-1.apk",
+            "file": "com.tomatointeractive.gmz",
+            "title": "",
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        },
+        {
+            "id": 46,
+            "apkName": "com.babyfirsttv.larrythingsthatgo-1.apk",
+            "file": "com.babyfirsttv.larrythingsthatgo",
+            "title": "",
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        },
+        {
+            "id": 47,
+            "apkName": "com.SightCards-1.apk",
+            "file": "com.SightCards",
+            "title": "",
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        },
+        {
+            "id": 48,
+            "apkName": "air.com.uxpractitioners.apps.phonicsreaderLite-1.apk",
+            "file": "air.com.uxpractitioners.apps.phonicsreaderLite",
+            "title": "",
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        },
+        {
+            "id": 49,
+            "apkName": "uk.co.readwritephonics-1.apk",
+            "file": "uk.co.readwritephonics",
+            "title": "",
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        },
+        {
+            "id": 50,
+            "apkName": "kr.co.smartstudy.phonicsiap_android_googlemarket-1.apk",
+            "file": "kr.co.smartstudy.phonicsiap_android_googlemarket",
+            "title": "",
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        },
+        {
+            "id": 51,
+            "apkName": "com.learningtouch.bobbooksliteversion-1.apk",
+            "file": "com.learningtouch.bobbooksliteversion",
+            "title": "",
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        },
+        {
+            "id": 52,
+            "apkName": "com.lostlarry-1.apk",
+            "file": "com.lostlarry",
+            "title": "",
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        },
+        {
+            "id": 53,
+            "apkName": "emantras.in-1.apk",
+            "file": "emantras.in",
+            "title": "",
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        },
+        {
+            "id": 55,
+            "apkName": "russh.toddler.colors-1.apk",
+            "file": "russh.toddler.colors",
+            "title": "",
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        },
+        {
+            "id": 56,
+            "apkName": "russh.toddler.shapes-1.apk",
+            "file": "russh.toddler.shapes",
+            "title": "",
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        },
+        {
+            "id": 57,
+            "apkName": "edu.mit.media.prg.tinkerbook_unity-1.apk",
+            "file": "edu.mit.media.prg.tinkerbook_unity",
+            "title": "",
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        },
+        {
+            "id": 59,
+            "apkName": "com.sevenacademy.thejoyofreadingfrom3yearsofage-1.apk",
+            "file": "com.sevenacademy.thejoyofreadingfrom3yearsofage",
+            "title": "",
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        },
+        {
+            "id": 60,
+            "apkName": "com.sevenacademy.TicTacTime-1.apk",
+            "file": "com.sevenacademy.TicTacTime",
+            "title": "",
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        },
+        {
+            "id": 61,
+            "apkName": "air.com.speakaboos.kidstime.the_abc_song-1.apk",
+            "file": "air.com.speakaboos.kidstime.the_abc_song",
+            "title": "",
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        },
+        {
+            "id": 62,
+            "apkName": "com.absolutist.abcmysteriezfree-1.apk",
+            "file": "com.absolutist.abcmysteriezfree",
+            "title": "",
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        },
+        {
+            "id": 63,
+            "apkName": "BMA_CO.Phonics_Lv1_Unit4-1.apk",
+            "file": "BMA_CO.Phonics_Lv1_Unit4",
+            "title": "",
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        },
+        {
+            "id": 64,
+            "apkName": "BMA_CO.Phonics_Lv1_Unit5-1.apk",
+            "file": "BMA_CO.Phonics_Lv1_Unit5",
+            "title": "",
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        },
+        {
+            "id": 65,
+            "apkName": "BMA_CO.Phonics_Lv1_Unit6-1.apk",
+            "file": "BMA_CO.Phonics_Lv1_Unit6",
+            "title": "",
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        },
+        {
+            "id": 66,
+            "apkName": "BMA_CO.Phonics_Lv1_Unit7-1.apk",
+            "file": "BMA_CO.Phonics_Lv1_Unit7",
+            "title": "",
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        },
+        {
+            "id": 67,
+            "apkName": "BMA_CO.Phonics_Lv1_Unit8-1.apk",
+            "file": "BMA_CO.Phonics_Lv1_Unit8",
+            "title": "",
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        },
+        {
+            "id": 68,
+            "apkName": "BMA_CO.Phonics_Lv1_Unit9-1.apk",
+            "file": "BMA_CO.Phonics_Lv1_Unit9",
+            "title": "",
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        },
+        {
+            "id": 69,
+            "apkName": "BMA_CO.Phonics_Lv2_Unit2-1.apk",
+            "file": "BMA_CO.Phonics_Lv2_Unit2",
+            "title": "",
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        },
+        {
+            "id": 70,
+            "apkName": "BMA_CO.Phonics_Lv2_Unit3-1.apk",
+            "file": "BMA_CO.Phonics_Lv2_Unit3",
+            "title": "",
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        },
+        {
+            "id": 71,
+            "apkName": "BMA_CO.Phonics_Lv2_Unit4-1.apk",
+            "file": "BMA_CO.Phonics_Lv2_Unit4",
+            "title": "",
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        },
+        {
+            "id": 72,
+            "apkName": "BMA_CO.Phonics_Lv2_Unit5-1.apk",
+            "file": "BMA_CO.Phonics_Lv2_Unit5",
+            "title": "",
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        },
+        {
+            "id": 73,
+            "apkName": "BMA_CO.Phonics_Lv2_Unit7-1.apk",
+            "file": "BMA_CO.Phonics_Lv2_Unit7",
+            "title": "",
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        },
+        {
+            "id": 74,
+            "apkName": "BMA_CO.Phonics_Lv2_Unit8-1.apk",
+            "file": "BMA_CO.Phonics_Lv2_Unit8",
+            "title": "",
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        },
+        {
+            "id": 75,
+            "apkName": "BMA_CO.Phonics_Lv2_Unit9-1.apk",
+            "file": "BMA_CO.Phonics_Lv2_Unit9",
+            "title": "",
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        },
+        {
+            "id": 76,
+            "apkName": "BMA_CO.Phonics_Lv2_Unit10-1.apk",
+            "file": "BMA_CO.Phonics_Lv2_Unit10",
+            "title": "",
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        },
+        {
+            "id": 77,
+            "apkName": "BMA_CO.Phonics_Lv3_Unit4-1.apk",
+            "file": "BMA_CO.Phonics_Lv3_Unit4",
+            "title": "",
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        },
+        {
+            "id": 78,
+            "apkName": "BMA_CO.Phonics_Lv3_Unit5-1.apk",
+            "file": "BMA_CO.Phonics_Lv3_Unit5",
+            "title": "",
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        },
+        {
+            "id": 79,
+            "apkName": "BMA_CO.Phonics_Lv3_Unit7-1.apk",
+            "file": "BMA_CO.Phonics_Lv3_Unit7",
+            "title": "",
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        },
+        {
+            "id": 80,
+            "apkName": "BMA_CO.Phonics_Lv3_Unit10-1.apk",
+            "file": "BMA_CO.Phonics_Lv3_Unit10",
+            "title": "",
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        },
+        {
+            "id": 94,
+            "apkName": "CLMovieListingApp.apk",
+            "file": "org.curiouslearning.videoplayertest",  
+            "type": "app",
+            "visible": "1",
+            "bounce": 1,
+            "scale": 1
+        }
+    ],
+    "hiddenApps": [
+        
+    ],
+    "videos": [
+        {
+            "id": 8,
+            "title": "Dinosaur Train: Armored Like an Ankylosaurus",
+            "type": "video",
+            "visible": "1",
+            "contentType": "EducationalVideo",
+            "file": "Dinosaur_Train_Armored_Like_an_Ankylosaurus_Video.mp4"
+        },
+        {
+            "id": 18,
+            "title": "The Big Game",
+            "type": "video",
+            "visible": "1",
+            "contentType": "EducationalVideo",
+            "file": "The_Big_Game.mp4"
+        },
+        {
+            "id": 19,
+            "title": "From Seed to Flower",
+            "type": "video",
+            "visible": "1",
+            "contentType": "EducationalVideo",
+            "file": "From_Seed_to_Flower.mp4"
+        }
+    ]
+}
