@@ -2,7 +2,7 @@
         "version":4.0.0,
         "configUpdateUrl":"https://developer.globallit.org/tabletinterface/json_config.php",
         "configUpdatePeriod":14400,
-        "dataArchivePeriod":14401,
+        "dataArchivePeriod":3600,
         "dataUploadUrl":"https://developer.globallit.org/uploads/",
         "dataUploadPeriod":14400,
        "dataRequests":{
